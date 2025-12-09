@@ -1,0 +1,7 @@
+=== RESUMEN ESTADÍSTICAS ===
+Promedio longitud (positive): 73.01171629145486
+Tweets por sentimiento:
+ - Irrelevant: 12875
+ - Neutral: 18108
+ - Negative: 22358
+ - Positive: 20655

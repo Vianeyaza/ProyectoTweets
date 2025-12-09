@@ -1,0 +1,6 @@
+com\unpa\prytweets\service\TweetAnalyticsService.class
+com\unpa\prytweets\model\Tweet.class
+com\unpa\prytweets\service\TextTransformService.class
+com\unpa\prytweets\service\TweetLoader.class
+com\unpa\prytweets\report\ReportGenerator.class
+com\unpa\prytweets\app\Main.class
